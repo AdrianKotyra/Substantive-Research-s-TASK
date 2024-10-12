@@ -5,6 +5,7 @@ Substantive Research Client Payment Benchmarking App Overview This React applica
 Features Fetches payment information from a mock API. Displays key data points, including payment benchmarks for various products. Converts currency based on real-time exchange rates retrieved from another mock API. Responsive user interface built with React.
 
 Installation To get started with the application, follow these instructions:
+
 0. DEMO https://substantive-research-task-ak.netlify.app/
 
 1.Clone the Repository: -git clone https://github.com/AdrianKotyra/Substantive-Research-s-TASK.git
