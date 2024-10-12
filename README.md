@@ -6,7 +6,7 @@ Features Fetches payment information from a mock API. Displays key data points, 
 
 Installation To get started with the application, follow these instructions:
 
-0. DEMO https://substantive-research-task-ak.netlify.app/
+DEMO https://substantive-research-task-ak.netlify.app/
 
 1.Clone the Repository: -git clone https://github.com/AdrianKotyra/Substantive-Research-s-TASK.git
 
