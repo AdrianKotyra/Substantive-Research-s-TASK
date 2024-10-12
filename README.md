@@ -15,9 +15,9 @@ Installation To get started with the application, follow these instructions:
 4.Start the Application: To run the application in development mode, execute: npm start
 
 5.This will start the development server, and you can view the app in your browser at http://localhost:3000.
-------------------------------------------------------------------------------------------------------------------------------------
-DETAILED WHOLE TASK INSTRUCTION:
 
+DETAILED WHOLE TASK INSTRUCTION:
+------------------------------------------------------------------------------------------------------------------------------------
 
 As a tech test assessor, I want to assess that the tech test deliverable is using modern web technologies and techniques. Conditions Of Satisfaction ● All processing through JavaScript, using any modern JavaScript framework ● Deliverable includes a README file with installation instructions ● Web user interface that highlights key data points ● Code shared via a remote repository e.g. Github
 Show over or under benchmark payment for each provider Description As a Substantive Research client user, I want to understand whether my data provider payments are over or under benchmark, so that I can make informed decisions about cost efficiency and negotiate better contracts with my providers. Conditions Of Satisfaction ● Payment and benchmark totals over 4 years (2021-2024) presented for each provider. ● Total benchmark difference (benchmark minus payment) presented for each provider. ● Totals should be converted to the user’s preferred currency, which is Euros.
